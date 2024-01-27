@@ -1,2 +1,4 @@
 # igdown
-> My Simple Instagram Picture Downloader without Login.
+> My Simple Instagram Picture Downloader without Login. <br>
+- Works only for Pictures no videos.
+Made in Python
